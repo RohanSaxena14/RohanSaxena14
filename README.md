@@ -1,8 +1,6 @@
 
-
-<--## ![Rohan Saxena's header](https://github.com/RohanSaxena14/about-me/blob/main/images/fun.gif)
-<p align="center"> -->
-  <img width="460" height="300" src="https://github.com/RohanSaxena14/about-me/blob/main/images/fun.gif">
+<p align="center"> 
+  <img width="550" height="400" src="https://github.com/RohanSaxena14/about-me/blob/main/images/fun.gif">
 </p>
 <h2 align="center">Hello there! My name is Rohan Saxena. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <p align='center'>
