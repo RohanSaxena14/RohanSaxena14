@@ -42,7 +42,7 @@ I'm currently working as a Machine Learning Research fellow at IIT Indore under 
 - Research Intern at [IIT Indore](https://www.iiti.ac.in/) 💼 💻
 - Research Intern at [Jaypee University of Information Technology,Waknagha](https://www.juit.ac.in/)
 ### 💻 What i am currently/done working on
-- [Research paper implementation of Machine Reading Complehension based Named Entity Recognition (MRC-NER)](https://arxiv.org/abs/1910.11476)  🚀 *coming very soon*
+- [Research paper implementation of Machine Reading Complehension based Named Entity Recognition (MRC-NER)](https://github.com/RohanSaxena14/mrc-for-flat-nested-ner-in-tensoflow)  🚀
 - [The Invible Man](https://github.com/RohanSaxena14/The-Invisible-man)
 - [Neural Style Transfer](https://github.com/RohanSaxena14/neuro_style_transfer)
 - [Covid-19_Alert_System](https://github.com/RohanSaxena14/social_distance_tracker)
@@ -57,8 +57,8 @@ I'm currently working as a Machine Learning Research fellow at IIT Indore under 
 
 ## &#x1f4c8; Github Stats
 
-<a href="https://github.com/MaheepChaudhary/MaheepChaudhary">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheepChaudhary&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/RohanSaxena14/RohanSaxena14">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanSaxena14&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/RohanSaxena14/about-me">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RohanSaxena14&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rohan's GitHub Stats" />
@@ -71,9 +71,4 @@ I'm currently working as a Machine Learning Research fellow at IIT Indore under 
 <a href="https://github.com/RohanSaxena14/neuro_style_transfer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RohanSaxena14&repo=neuro_style_transfer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
-<!--
-## Stargazers
-[![Stargazers repo roster for @MaheepChaudhary/MaheepChaudhary](https://reporoster.com/stars/MaheepChaudhary/MaheepChaudhary)](https://github.com/MaheepChaudhary/MaheepChaudhary/stargazers)
--->
 ---
