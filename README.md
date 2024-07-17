@@ -21,7 +21,7 @@
 
 ## &#x270d; My Digital Garden 🌱
 
-I'm currently working as a Machine Learning Research fellow at IIT Indore under the guidance of [Prof. Chandresh Kumar Maurya](https://scholar.google.com/citations?user=OR0yLJEAAAAJ&hl=en&oi=ao) where I'm working on *optimizing the capability of intelligent systems like Alexa*. In addition to that I am also conducting research under [Prof. Mrityunjay Singh](https://scholar.google.com/citations?hl=en&user=5kG-VWMAAAAJ) where we are working on an *Optimized Search Engines for Research Papers*(which is a govt. funded research project). My research paper on *Recommendation Engine* is under review in the [Information Sciences](https://www.journals.elsevier.com/information-sciences) journal. Also in my free time, I like to read non-fiction books and learn about some new geeky stuff.
+Philomath / AI scientist with over two years of experience specializing in ML and Data Analysis, including LLMs, LMMMs, Agents and Speech to Text modules. Strong background in data science, data analytics. Proficient in python and skilled in design and integration. My expertise includes statistical literacy, quantitative analysis, and algorithmic thinking
 
 ---
 
